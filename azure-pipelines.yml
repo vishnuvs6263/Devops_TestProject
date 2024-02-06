@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name:'VVS_Agent'
+  name:'Default'
 
 
 steps:
