@@ -7,7 +7,8 @@ trigger:
 - master
 
 pool:
-  name:'WMBLR24'
+  name:'Default'
+  vmImage:'WMBLR24'
 
 
 steps:
